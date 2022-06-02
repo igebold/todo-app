@@ -1,0 +1,6 @@
+body{
+    background-image: url(/asset/img/banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: auto;
+}
